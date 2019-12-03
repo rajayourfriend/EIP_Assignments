@@ -7,7 +7,8 @@
 
 ##### 0.b For my network  
 * 84,571  
-\  
+  
+    
 #### 1. Final Validation Accuracy 
 ##### 1.a For base network  
 * 82.1
