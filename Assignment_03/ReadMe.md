@@ -3,17 +3,17 @@
 
 #### 0. Number of Parameters 
 ##### 0.a For base network  
-1,172,410
+* 1,172,410
 
 ##### 0.b For my network  
-84,571  
+* 84,571  
   
 #### 1. Final Validation Accuracy 
 ##### 1.a For base network  
-82.1
+* 82.1
 
 ##### 1.b For my network  
-86.1  
+* 86.1  
   
 #### 2. My model definition  
 import keras
