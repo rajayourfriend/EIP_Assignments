@@ -6,16 +6,15 @@
 1,172,410
 
 ##### 0.b For my network  
-84,571
-
+84,571  
+  
 #### 1. Final Validation Accuracy 
 ##### 1.a For base network  
 82.1
 
 ##### 1.b For my network  
-86.1
-
-
+86.1  
+  
 #### 2. My model definition  
 import keras
 
@@ -132,7 +131,6 @@ if RAJA == True: # Developed by Raja
 
 
 #### 3. My 50 epochs log  
-
 
 Epoch 1/50
 390/390 [==============================] - 39s 99ms/step - loss: 1.4610 - acc: 0.5001 - val_loss: 1.3249 - val_acc: 0.5454
