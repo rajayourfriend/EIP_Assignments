@@ -8,14 +8,13 @@
 ##### 0.b For my network  
 * 84,571  
   
-    
 #### 1. Final Validation Accuracy 
 ##### 1.a For base network  
 * 82.1
 
 ##### 1.b For my network  
 * 86.1  
-  
+  <span style="color:blue">some *86.1* text</span>
 #### 2. My model definition  
 import keras
 
